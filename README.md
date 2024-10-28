@@ -1,6 +1,6 @@
-# InfoSec Lab Writeups
+# CTF Writeups
 
-Welcome to my GitHub repository! Here, I showcase my journey through various information security labs, focusing on both offensive and defensive security practices. This repository contains CTF writeups, LAB reports, and notes that document my learning experiences as I move forward in the world of cybersecurity.
+Welcome to my GitHub repository! Here, I showcase my journey through various cyber security labs, focusing on both offensive and defensive security practices. This repository contains CTF writeups, LAB reports, and notes that document my learning experiences as I move forward in cybersecurity.
 
 ## 🚀 About This Repository
 
@@ -36,8 +36,10 @@ In my exploration of information security, I leverage a variety of tools and pla
 ### Third-Party Lab Environments
 - **Hands-On Learning Platforms**:
   - [Hack The Box (HTB)](https://www.hackthebox.com/) - A platform to practice penetration testing with various challenges and labs.
-  - [TryHackMe (THM)](https://tryhackme.com/) - An interactive platform for learning cybersecurity through real-world scenarios.
+  - [TryHackMe (THM)](https://tryhackme.com/) - An interactive platform for learning cybersecurity through real-world scenarios (beginner friendly).
   - [VulnHub](https://www.vulnhub.com/) - A collection of vulnerable applications to practice penetration testing.
+  - [PicoCTF](https://picoctf.org/) - CTF challenges to polish your understanding.
+  - [A lot more, and will be included in the future]
 
 ### Additional Resources
 - **Documentation and Learning**:
@@ -61,7 +63,7 @@ These tools and platforms play a crucial role in my learning process, helping me
 
 ## 🤝 Contributing
 
-I welcome contributions! If you have suggestions for improvement or would like to collaborate on labs, feel free to reach out or open a pull request.
+I am still learning, and I welcome discussions and contributions! If you have suggestions for improvement or would like to collaborate on labs, CTFs, feel free to reach out or open a pull request.
 
 ## 📫 Contact
 
@@ -71,6 +73,6 @@ You can reach me via
 
 ---
 
-Thank you for visiting here! Happy learning and exploring the fascinating world of information security!
+Thank you for visiting here! Happy learning and exploring the fascinating world of information and cyber security!
 
 
